@@ -1,8 +1,12 @@
 # employee-management
 Tools Used:
+
 Language: Java(SpringToolSuite)
+
 DataBase: Postgres
+
 Client: Postman
+
 Server: Tomcat
 
  Crud Operations are done here Where we can get/add/update/delete the employee imformation from the firm.
